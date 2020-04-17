@@ -1,0 +1,15 @@
+{
+  "name": "talkingsticks",
+  "version": "1.0.0",
+  "description": "Drum Conversations For Students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Schurk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0"
+  }
+}
